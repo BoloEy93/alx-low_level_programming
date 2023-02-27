@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * add(int, int): a finction that add two int and return the result
- * @a : first parameter to be add
- * @b: second parameter to be add
+ * add : a finction that add two int and return the result
+ * @a  : first parameter to be add
+ * @b  : second parameter to be add
  * Return: the sum of @a and @b
  */
 
