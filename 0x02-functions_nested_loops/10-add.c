@@ -1,13 +1,14 @@
 #include "main.h"
 
 /**
- * int add(int, int): a finction that add two int and return the result
+ * add(int, int): a finction that add two int and return the result
  * @a : first parameter to be add
  * @b: second parameter to be add
+ * Return: the sum of @a and @b
  */
 
 
 int add(int a, int b)
 {
-	return (a+b);
+	return (a + b);
 }
