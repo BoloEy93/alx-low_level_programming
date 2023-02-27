@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /*
- * print_to_98: print numbers between n and 98
+ * print_to_98 - print numbers between n and 98
  * @n: parameter
  */
 
