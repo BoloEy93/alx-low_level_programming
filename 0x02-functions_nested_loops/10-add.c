@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * add : a finction that add two int and return the result
- * @a  : first parameter to be add
- * @b  : second parameter to be add
- * Return: the sum of @a and @b
+ * add - adding it up
+ * @a: first integer
+ * @b: second integer
+ *
+ * Return: sum of both integers
  */
 
 
