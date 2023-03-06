@@ -7,7 +7,6 @@
  *
  * Return: returns integer value
  */
-
 int _atoi(char *s)
 {
 	int i;
